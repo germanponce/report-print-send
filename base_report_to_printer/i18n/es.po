@@ -179,7 +179,7 @@ msgstr "Actualizar Impresoras de CUPS"
 #: code:addons/base_report_to_printer/printing.py:215
 #, python-format
 msgid "Send to Printer"
-msgstr "Enviar Impresiora"
+msgstr "Enviar Impresora"
 
 #. module: base_report_to_printer
 #: model:ir.ui.menu,name:base_report_to_printer.menu_printing_main
